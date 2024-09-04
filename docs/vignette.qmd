@@ -1,3 +1,5 @@
 This is a vignette
-Assign Nova to the task for writting the vignette
+Assign Nova to the task for writing the vignette
 This is a qmd, so we need a header and improve R code output in the vignette
+Need to start adding example data sets
+
